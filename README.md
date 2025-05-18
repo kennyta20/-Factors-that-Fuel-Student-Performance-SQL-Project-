@@ -1,1 +1,1 @@
-# -Factors-that-Fuel-Student-Performance-SQL-Project-
+# Factors that Fuel Student Performance SQL Project
